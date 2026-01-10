@@ -172,17 +172,16 @@ https://cdn-4.pishow.tv/live/1143/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Dyg5D4Sx/Rongeen-TV.png" group-title="India • Bangla*", Rongeen TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/rongeen-tv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-jalsha-in.png" group-title="India • Bangla*",Star Jalsha HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vBYSD7x7/starj.png" group-title="India • Bangla*",Star Jalsha HD
 https://tvsen1.aynaott.com/gUX8BJmNc2yF/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZR86dXpt/aaath.png" group-title="India • Bangla*",Akash Aath
 https://cdn-4.pishow.tv/live/969/master.m3u8
 
-#EXTINF:-53 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZBCINEMA.png" group-title="India • Bangla*",ZB Cinema
+#EXTINF:-53 tvg-logo="https://i.postimg.cc/5yHgFs4Y/zbc.png" group-title="India • Bangla*",ZB Cinema
 https://server.zillarbarta.com/ZBCINEMA/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-55 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Bengali_HD.png?width=250" group-title="India • Bangla*",Colors Bangla HD
-https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/800.m3u8?hdnts=
+#EXTINF:-55 tvg-logo="https://i.postimg.cc/bJrHKm2B/cbhd.png" group-title="India • Bangla*",Colors Bangla HD
 
 #EXTINF:-55 tvg-logo="" group-title="India • Bangla*",Bangla+ HD
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
@@ -190,7 +189,7 @@ https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #EXTINF:-55 tvg-logo="" group-title="India • Bangla*",Orange Bangla
 https://cdn-4.pishow.tv/live/1499/master.m3u8
 
-#EXTINF:-56 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-aath-in.png" group-title="India • Bangla*",Sony Aath
+#EXTINF:-56 tvg-logo="https://i.postimg.cc/Tw0FcNvQ/sony8.png" group-title="India • Bangla*",Sony Aath
 https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tara-bangla-cinema.png" group-title="India • Bangla*",Tara Bangla Cinema
@@ -199,10 +198,10 @@ http://103.145.48.150:90/laosat24/taratv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7PS2tv5X/taratv.png" group-title="India • Bangla*",Tara TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tara-tv/index.m3u8
 
-#EXTINF:-56 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dd_bangla.png" group-title="India • Bangla*",DD Bangla
+#EXTINF:-56 tvg-logo="https://i.postimg.cc/15f2pKCc/ddbn.png" group-title="India • Bangla*",DD Bangla
 https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/2e9e32a4-c4f7-49c3-96d6-c4e3660c7e3f/2.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/enterr-10-bangla-in.png" group-title="India • Bangla*", Enterr10 Bangla
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sx6F36nx/e10b.png" group-title="India • Bangla*", Enterr10 Bangla
 https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
 
 #EXTINF:-80 tvg-logo="" group-title="India • Bangla*", Bengali Beats
