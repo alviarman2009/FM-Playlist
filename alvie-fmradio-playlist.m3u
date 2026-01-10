@@ -208,19 +208,19 @@ https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg0
 https://tplay.live/originals/bengali-beats/index.m3u8
 
 INDIA • Hindi*
-#EXTINF:-83 tvg-logo="https://www.lyngsat.com/logo/tv/num/9x_music.png" group-title="India • Hindi*",9XM
+#EXTINF:-83 tvg-logo="https://i.postimg.cc/MT050nV8/9xm.png" group-title="India • Hindi*",9XM
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/c8939874-787e-41ae-8d35-f5ea6e15720d/0.m3u8
 
-#EXTINF:-83 tvg-logo="https://www.lyngsat.com/logo/tv/num/9x_jalwa.png" group-title="India • Hindi*",9X Jalwa
+#EXTINF:-83 tvg-logo="https://i.postimg.cc/m2pwSfz7/9XJalwa.png" group-title="India • Hindi*",9X Jalwa
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/47bdb49d-f6f3-4927-a9ea-12c4c5afc732/0.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/b4u_music_in.png" group-title="India • Hindi*",B4U Music
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/j5h6wGYD/B4U-Music.png" group-title="India • Hindi*",B4U Music
 https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/4598c408-0e38-488c-9b64-fc845d1ea2b6/0.m3u8
 
-#EXTINF:-50 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Music_India.png" group-title="India • Hindi*",Music India
+#EXTINF:-50 tvg-logo="https://i.postimg.cc/VL2t6Y0M/Music-India.png" group-title="India • Hindi*",Music India
 https://cdn-2.pishow.tv/live/226/master.m3u8
 
-#EXTINF:-87 tvg-logo="https://www.lyngsat.com/logo/tv/bb/balle-balle-in.png" group-title="India • Hindi*",Balle Balle TV
+#EXTINF:-87 tvg-logo="https://i.postimg.cc/Rh6F5HRP/bbtv.png" group-title="India • Hindi*",Balle Balle TV
 https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-50 tvg-logo="" group-title="India • Hindi*",Jalsha Movies HD
@@ -229,10 +229,10 @@ https://cloudfrontnet.vercel.app/tplay/playout/209627/master.m3u8
 #EXTINF:-50 tvg-logo="" group-title="India • Hindi*",Jalsha Movies SD
 https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
 
-#EXTINF:-84 tvg-logo="https://i.pinimg.com/originals/45/7e/3a/457e3aaf075e58defea4d9455fd79004.jpg" group-title="India • Hindi*",Zoom 2
+#EXTINF:-84 tvg-logo="https://i.postimg.cc/sDLYhYqm/zoom.jpg" group-title="India • Hindi*",Zoom 2
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/zoom-tv/master.m3u8
 
-#EXTINF:-84 tvg-logo="https://i.pinimg.com/originals/45/7e/3a/457e3aaf075e58defea4d9455fd79004.jpg" group-title="India • Hindi*",Zoom
+#EXTINF:-84 tvg-logo="https://i.postimg.cc/sDLYhYqm/zoom.jpg" group-title="India • Hindi*",Zoom
 https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/showbox-in.png"group-title="India • Hindi*",ShowBox
@@ -241,7 +241,7 @@ https://epiconvh.akamaized.net/live/showbox/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="India • Hindi*",Hindi Hits HD
 http://146.59.253.52:8080/hindihitshd/index.m3u8
 
-#EXTINF:-87 tvg-logo="https://tvschedule.today/_next/image?url=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fshows%2F700%2F-%2F2026-01-09%2F2601091192005_s.jpg&w=384&q=75" group-title="India • Hindi*",Brit Asia TV
+#EXTINF:-87 tvg-logo="https://i.postimg.cc/8Pv5ZLsw/batv.png" group-title="India • Hindi*",Brit Asia TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/britasiatv/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/63f66748474ef363a52a0c2a/a41607bf-200f-4903-be5d-4e178a027efb/IMG_6412.JPG" group-title="India • Hindi*",Bollywood HD
@@ -256,18 +256,18 @@ http://nocable.cc:8080/789588/114528/125814
 #EXTINF:-1 tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800008CX_20251126T004300SQUARE.png&h=250" group-title="India • Hindi*", South Station
 https://jmp2.uk/stvp-IN3800008CX
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/b4u_movies_in.png" group-title="India • Hindi*",B4U Movies
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0yB9xQ6s/b4um.png" group-title="India • Hindi*",B4U Movies
 https://cdnb4u.wiseplayout.com/B4U_Movies/SD216/SD216.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/pitaara-live-tv-in.png" group-title="India • Hindi*", Pitaara TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bYxYbp56/Pitaara.png" group-title="India • Hindi*", Pitaara TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pitaara-tv/playlist.m3u8
 
 
 INTERNATIONAL*
-#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2019/09/AljazeeraTV.jpg" group-title="International*",Al Jazeera
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gJq9wk0H/alj.png" group-title="International*",Al Jazeera
 https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
 
-#EXTINF:-58 tvg-logo="https://seeklogo.com/images/B/bbc-news-logo-8648ABD044-seeklogo.com.png" group-title="International*",BBC News
+#EXTINF:-58 tvg-logo="https://i.postimg.cc/3NYT90qV/bbc.png" group-title="International*",BBC News
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News-avc1_3000000=8-mp4a_208000_eng=2.m3u8
 
 #EXTINF:-58 tvg-logo="https://www.lyngsat.com/logo/tv/ww/wion_in.png" group-title="International*",WION
