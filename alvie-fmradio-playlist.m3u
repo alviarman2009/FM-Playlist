@@ -323,16 +323,29 @@ https://cc-r5hupcym5oehh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 #EXTINF:-28 tvg-logo="https://i.postimg.cc/XNmhXSVc/ddn.png" group-title="India • Hindi*",DD National HD
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
 
-#
-
-#EXTINF:-50 tvg-logo="" group-title="India • Hindi*",Movie Bangla SD
-https://cloudfrontnet.vercel.app/tplay/playout/209627/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8P4wrBCL/dangal.png" group-title="India • Hindi*",Dangal
 https://live-dangal.akamaized.net/liveabr/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sDT92jnS/dangal2.jpg" group-title="India • Hindi*",Dangal2
 https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
+
+#EXTINF:-110 tvg-logo="https://i.postimg.cc/t4mK1PSd/ssab.png" group-title="India • Hindi*",Sony Sab
+http://206.212.244.71:8080/BRIDGITS@YAHOO.COM/BRIDGITS@2022/125809
+
+#EXTINF:-110 tvg-logo="https://i.postimg.cc/rm53YH8r/smax.png" group-title="India • Hindi*",Sony Max HD
+http://nocable.cc:8080/789588/114528/125814
+
+EXTINF:-1 tvg-logo="https://i.postimg.cc/YSRmfrFf/bwhd.png" group-title="India • Hindi*",Bollywood HD
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HLSgXfVG/bchd.png" group-title="India • Hindi*",Bollywood Classic HD
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0yB9xQ6s/b4um.png" group-title="India • Hindi*",B4U Movies SD
+https://cdnb4u.wiseplayout.com/B4U_Movies/SD216/SD216.m3u8
+
+#EXTINF:-50 tvg-logo="" group-title="India • Hindi*",Movie Bangla SD
+https://cloudfrontnet.vercel.app/tplay/playout/209627/master.m3u8
 
 #
 
@@ -347,18 +360,6 @@ https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 
 #
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YSRmfrFf/bwhd.png" group-title="India • Hindi*",Bollywood HD
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HLSgXfVG/bchd.png" group-title="India • Hindi*",Bollywood Classic HD
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
-
-#EXTINF:-110 tvg-logo="https://i.postimg.cc/t4mK1PSd/ssab.png" group-title="India • Hindi*",Sony Sab
-http://206.212.244.71:8080/BRIDGITS@YAHOO.COM/BRIDGITS@2022/125809
-
-#EXTINF:-110 tvg-logo="https://i.postimg.cc/rm53YH8r/smax.png" group-title="India • Hindi*",Sony Max HD
-http://nocable.cc:8080/789588/114528/125814
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3RDYr93y/ss.png" group-title="India • Hindi*",South Station
 https://jmp2.uk/stvp-IN3800008CX
 
@@ -368,8 +369,7 @@ https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mp2ar4ca425xo.m3u8
 #EXTINF:-28 tvg-logo="" group-title="India • Hindi*",The Movie Club SD
 https://pb-dkdpz5so0aqqr.akamaized.net:443/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-dkdpz5so0aqqr/../../../manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-dkdpz5so0aqqr/6ddcb954-4369-4fa6-909d-f35b5e84ad60/1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0yB9xQ6s/b4um.png" group-title="India • Hindi*",B4U Movies SD
-https://cdnb4u.wiseplayout.com/B4U_Movies/SD216/SD216.m3u8
+#
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bYxYbp56/Pitaara.png" group-title="India • Hindi*", Pitaara TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pitaara-tv/playlist.m3u8
