@@ -21,7 +21,11 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-7 tvg-logo="https://i.postimg.cc/gj6jHFLk/atnb.png"group-title="Bangladesh*",ATN Bangla HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 
-#EXTINF:-7 tvg-logo=""group-title="Bangladesh*",ATN Bangla UK
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jjtskTbh/atnuk.png" group-title="Bangladesh*",ATN Bangla UK
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wMCz582c/atnm.webp" group-title="Bangladesh*",ATN Music
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/atnmusic.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-8 tvg-logo="https://i.postimg.cc/N0JRNtF2/atnn.png" group-title="Bangladesh*",ATN News HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
@@ -210,6 +214,7 @@ http://208.86.19.13:81/514.stream/index.m3u8
 #EXTINF:-42 tvg-logo="https://www.jagobd.com/wp-content/uploads/2019/05/Jhankartv.jpg"group-title="Bangladesh*",Jhankar TV Canada
 https://dbcanada.sonarbanglatv.com/jhankartv/jtv/index.m3u8
 
+
 INDIA • Bangla*
 #EXTINF:-53 tvg-logo="https://i.postimg.cc/t4Wth1hX/z24g.png" group-title="India • Bangla*",Zee 24 Ghanta
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-zee24ghantaa-xiaomi/playlist.m3u8
@@ -250,7 +255,8 @@ https://server.zillarbarta.com/ZBCINEMA/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-55 tvg-logo="https://i.postimg.cc/bJrHKm2B/cbhd.png" group-title="India • Bangla*",Colors Bangla HD
 https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8
 
-#EXTINF:-55 tvg-logo="https://i.postimg.cc/zvCWDjP2/bdplus.jpg" group-title="India • Bangla*",Bangla+ HD
+#EXTINF:-55 tvg-logo="https://i.postimg.cc/zvCWDjP2/bdplus.jpg" group-title="India • Bangla*",Bangla+
+#https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/zodiaktv.stream/tracks-v1a1/mono.m3u8
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 
 #EXTINF:-55 tvg-logo="https://i.postimg.cc/FzV5CHyp/ob.webp" group-title="India • Bangla*",Orange Bangla
@@ -273,6 +279,9 @@ https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg0
 
 #EXTINF:-28 tvg-logo="https://i.postimg.cc/k5JYL7cS/rb.png" group-title="India • Bangla*",Ruposhi Bangla
 https://cdn-4.pishow.tv/live/1039/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4dMRZkDZ/BHI.png" group-title="India • Bangla*", BHI Channel
+http://15.235.185.236/hls/bhi.m3u8
 
 
 INDIA • Hindi*
@@ -314,6 +323,18 @@ https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-50 tvg-logo="" group-title="India • Hindi*",Jalsha Movies HD
 https://cloudfrontnet.vercel.app/tplay/playout/209627/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8P4wrBCL/dangal.png" group-title="India • Hindi*",Dangal
+https://live-dangal.akamaized.net/liveabr/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sDT92jnS/dangal2.jpg" group-title="India • Hindi*",Dangal2
+https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MKg0BPSM/joom.png" group-title="India • Hindi*",Joo Music
+https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
+
+#EXTINF:-28 tvg-logo="https://i.postimg.cc/4yFsFH5n/shm.png" group-title="India • Hindi*",Saga Music Haryanvi
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/saga-music-haryanvi/master.m3u8
 
 #EXTINF:-50 tvg-logo="" group-title="India • Hindi*",Jalsha Movies SD
 https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
@@ -385,6 +406,12 @@ http://65.108.239.207/bbc/index.m3u8
 
 #EXTINF:-10 tvg-logo="https://i.postimg.cc/VsDbbk8h/apsd.png" group-title="International*", Animal Planet
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
+
+#EXTINF:-28 tvg-logo="" group-title="International*",MixTV
+https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
+
+#EXTINF:-28 tvg-logo="https://i.postimg.cc/pLRFtgQG/vevo.png" group-title="International*",Vevo TV
+https://amg00056-amg00056c9-rakuten-fr-3243.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevopopfr-rakutenfr/playlist.m3u8
 
 
 FM RADIO*
