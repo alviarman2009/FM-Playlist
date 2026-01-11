@@ -290,23 +290,40 @@ https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91e
 #EXTINF:-28 tvg-logo="https://i.postimg.cc/FsSjF061/b4uk.png" group-title="India • Hindi*",B4U Kadak HD
 https://cdnb4u.wiseplayout.com/B4U_Kadak/master.m3u8
 
+#EXTINF:-50 tvg-logo="https://i.postimg.cc/VL2t6Y0M/Music-India.png" group-title="India • Hindi*",Music India SD
+https://cdn-2.pishow.tv/live/226/master.m3u8
+
+#EXTINF:-87 tvg-logo="https://i.postimg.cc/Rh6F5HRP/bbtv.png" group-title="India • Hindi*",Balle Balle TV 
+https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MKg0BPSM/joom.png" group-title="India • Hindi*",Joo Music HD
+https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLJdzF3m/sbtv.png"group-title="India • Hindi*",ShowBox HD
+https://epiconvh.akamaized.net/live/showbox/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="India • Hindi*",Hindi Hits HD
+http://146.59.253.52:8080/hindihitshd/index.m3u8
+
+#EXTINF:-87 tvg-logo="https://i.postimg.cc/8Pv5ZLsw/batv.png" group-title="India • Hindi*",Brit Asia TV HD
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/britasiatv/master.m3u8
+
+#EXTINF:-28 tvg-logo="https://i.postimg.cc/4yFsFH5n/shm.png" group-title="India • Hindi*",Saga Music Haryanvi
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/saga-music-haryanvi/master.m3u8
+
 #EXTINF:-28 tvg-logo="https://i.postimg.cc/QNf8zMJK/bm.png" group-title="India • Hindi*",Bollywood Masala HD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-masala/index.m3u8
 
 #EXTINF:-28 tvg-logo="https://i.postimg.cc/k4Db0S8D/smrbol.png" group-title="India • Hindi*",Shemaroo Bollywood HD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-bollywood/playlist.m3u8
 
-#EXTINF:-28 tvg-logo="https://i.postimg.cc/BvSDCkng/blyflx.png" group-title="India • Hindi*",BollyFlix HD
+#EXTINF:-28 tvg-logo="https://i.postimg.cc/BvSDCkng/blyflx.png" group-title="India • Hindi*",NH BollyFlix HD
 https://cc-r5hupcym5oehh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/SBUM/RunnTV/BollyFlix_IN/BollyFlix_IN.m3u8
 
 #EXTINF:-28 tvg-logo="https://i.postimg.cc/XNmhXSVc/ddn.png" group-title="India • Hindi*",DD National HD
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
 
-#EXTINF:-50 tvg-logo="https://i.postimg.cc/VL2t6Y0M/Music-India.png" group-title="India • Hindi*",Music India SD
-https://cdn-2.pishow.tv/live/226/master.m3u8
-
-#EXTINF:-87 tvg-logo="https://i.postimg.cc/Rh6F5HRP/bbtv.png" group-title="India • Hindi*",Balle Balle TV 
-https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.ts.m3u8
+#
 
 #EXTINF:-50 tvg-logo="" group-title="India • Hindi*",Movie Bangla SD
 https://cloudfrontnet.vercel.app/tplay/playout/209627/master.m3u8
@@ -317,11 +334,7 @@ https://live-dangal.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sDT92jnS/dangal2.jpg" group-title="India • Hindi*",Dangal2
 https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MKg0BPSM/joom.png" group-title="India • Hindi*",Joo Music HD
-https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
-
-#EXTINF:-28 tvg-logo="https://i.postimg.cc/4yFsFH5n/shm.png" group-title="India • Hindi*",Saga Music Haryanvi
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/saga-music-haryanvi/master.m3u8
+#
 
 #EXTINF:-50 tvg-logo="" group-title="India • Hindi*",Movie Hindi SD
 https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
@@ -332,14 +345,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-84 tvg-logo="https://i.postimg.cc/sDLYhYqm/zoom.jpg" group-title="India • Hindi*",Zoom
 https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLJdzF3m/sbtv.png"group-title="India • Hindi*",ShowBox HD
-https://epiconvh.akamaized.net/live/showbox/master.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="India • Hindi*",Hindi Hits HD
-http://146.59.253.52:8080/hindihitshd/index.m3u8
-
-#EXTINF:-87 tvg-logo="https://i.postimg.cc/8Pv5ZLsw/batv.png" group-title="India • Hindi*",Brit Asia TV HD
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/britasiatv/master.m3u8
+#
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YSRmfrFf/bwhd.png" group-title="India • Hindi*",Bollywood HD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
