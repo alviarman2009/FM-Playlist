@@ -329,6 +329,12 @@ https://live-dangal.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sDT92jnS/dangal2.jpg" group-title="India • Hindi*",Dangal2
 https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
 
+#EXTINF:-28 tvg-logo="https://i.postimg.cc/2SvKmVzJ/spal.png" group-title="India • Hindi*",Sony Pal
+http://103.178.78.151:7505/play/a1tu/index.m3u8
+
+#EXTINF:-28 tvg-logo="https://i.postimg.cc/2yhCf0M8/ssabhd.png" group-title="India • Hindi*",Sony Sab HD
+http://103.178.78.151:7505/play/a0ul/index.m3u8
+
 #EXTINF:-110 tvg-logo="https://i.postimg.cc/t4mK1PSd/ssab.png" group-title="India • Hindi*",Sony Sab
 http://206.212.244.71:8080/BRIDGITS@YAHOO.COM/BRIDGITS@2022/125809
 
@@ -344,10 +350,11 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0yB9xQ6s/b4um.png" group-title="India • Hindi*",B4U Movies SD
 https://cdnb4u.wiseplayout.com/B4U_Movies/SD216/SD216.m3u8
 
+#EXTINF:-28 tvg-logo="https://i.postimg.cc/GmYG5RX8/sum.webp" group-title="India • Hindi*",Star Utsav Movies
+http://103.178.78.151:7505/play/a0ul/index.m3u8
+
 #EXTINF:-50 tvg-logo="" group-title="India • Hindi*",Movie Bangla SD
 https://cloudfrontnet.vercel.app/tplay/playout/209627/master.m3u8
-
-#
 
 #EXTINF:-50 tvg-logo="" group-title="India • Hindi*",Movie Hindi SD
 https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
@@ -405,6 +412,12 @@ http://65.108.239.207/bbc/index.m3u8
 
 #EXTINF:-10 tvg-logo="https://i.postimg.cc/sgZXsPDh/ap.png" group-title="International*", Animal Planet
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
+
+#EXTINF:-28 tvg-logo="https://i.postimg.cc/76RFhS0J/mtvlive.png" group-title="International*",MTV Live
+http://143.244.60.97/MTV_LIVE/index.m3u8
+
+#EXTINF:-28 tvg-logo="https://i.postimg.cc/VNfQVfzR/mtvcus.png" group-title="International*",MTV Classic
+http://143.244.60.97/MTV_CLASSIC/index.m3u8
 
 #EXTINF:-28 tvg-logo="" group-title="International*",MixTV
 https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
