@@ -24,7 +24,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
 #EXTINF:-8 tvg-logo="https://i.postimg.cc/gj6jHFLk/atnb.png"group-title="Bangladesh*",ATN Bangla HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 
-#EXTINF:-0 tvg-logo="https://i.postimg.cc/jjtskTbh/atnuk.png" group-title="Bangladesh*",ATN Bangla UK
+#EXTINF:-0 tvg-logo="https://i.postimg.cc/jjtskTbh/atnuk.png" group-title="Bangladesh*",ATN Bangla UK SD
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-9 tvg-logo="https://i.postimg.cc/SRyJFCc9/channeli.png" group-title="Bangladesh*",Channel i HD
@@ -40,17 +40,17 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 #https://ekusheyserver.com/etvlivesn.m3u8
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
+#EXTINF:-15 tvg-logo="https://i.postimg.cc/FzVZxyVc/ayna.jpg" group-title="Bangladesh*",Ayna Television
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/ayna.stream/playlist.m3u8
+
+#EXTINF:-16 tvg-logo="https://i.postimg.cc/T3jqnqC8/gtv.png" group-title="Bangladesh*",Gazi Television
+https://tvsen5.aynaott.com/Ravc7gPCZpxk/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-13 tvg-logo="https://i.postimg.cc/BnxktVyC/Banglavision.png" group-title="Bangladesh*",BanglaVision HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
 
 #EXTINF:-14 tvg-logo="https://i.postimg.cc/BvV1TC7h/ekhon.png" group-title="Bangladesh*",Ekhon TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/playlist.m3u8
-
-#EXTINF:-15 tvg-logo="https://i.postimg.cc/FzVZxyVc/ayna.jpg" group-title="Bangladesh*",Ayna TV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/ayna.stream/playlist.m3u8
-
-#EXTINF:-16 tvg-logo="https://i.postimg.cc/T3jqnqC8/gtv.png" group-title="Bangladesh*",Gazi TV
-https://tvsen5.aynaott.com/Ravc7gPCZpxk/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-17 tvg-logo="https://i.postimg.cc/9XvnpbPS/rtv.png" group-title="Bangladesh*",RTV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/rtv-sg.stream/playlist.m3u8
