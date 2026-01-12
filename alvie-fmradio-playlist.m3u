@@ -97,10 +97,12 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/1711-audio_113412_eng=113200-vid
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/asian-test-sample-ok-d.stream/playlist.m3u8
 
 #EXTINF:-30 tvg-logo="https://i.postimg.cc/QMTjzkx5/satv.png" group-title="Bangladesh*",SA TV
+https://tvsen6.aynascope.net/satv/index.m3u8?e=1768249039&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=82a52ec1289d324ccb6bc03180b11abf
 
 #EXTINF:-31 tvg-logo="https://i.postimg.cc/1XjB6MKr/bijoy.png" group-title="Bangladesh*",Bijoy TV
+https://tvsen6.aynascope.net/bijoytv/index.m3u8?e=1768249044&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=f250080d8365746ee2b9205df2fb7c72
 
-#EXTINF:-32 tvg-logo="https://i.postimg.cc/pTckn8KP/btv.webp" group-title="Bangladesh*",Bangla TV
+#EXTINF:-32 tvg-logo="https://i.postimg.cc/bwN9KFFk/btv.png" group-title="Bangladesh*",Bangla TV
 https://tvsen6.aynascope.net/banglatv/index.m3u8?e=1768249041&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=9e71611a4b7526c587292a99a048a641
 
 #EXTINF:-33 tvg-logo="https://i.postimg.cc/vmfdhY3S/nagorik.png" group-title="Bangladesh*",Nagorik TV
