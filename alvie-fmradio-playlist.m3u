@@ -345,7 +345,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://cdnb4u.wiseplayout.com/B4U_Movies/SD216/SD216.m3u8
 
 #EXTINF:-28 tvg-logo="https://i.postimg.cc/GmYG5RX8/sum.webp" group-title="India • Hindi*",Star Utsav Movies
-http://103.178.78.151:7505/play/a0ul/index.m3u8
+http://103.78.149.54:8000/play/a00m/index.m3u8
 
 #EXTINF:-50 tvg-logo="" group-title="India • Hindi*",Movie Bangla SD
 https://cloudfrontnet.vercel.app/tplay/playout/209627/master.m3u8
@@ -359,8 +359,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-84 tvg-logo="https://i.postimg.cc/sDLYhYqm/zoom.jpg" group-title="India • Hindi*",Zoom
 https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 
-#
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3RDYr93y/ss.png" group-title="India • Hindi*",South Station
 https://jmp2.uk/stvp-IN3800008CX
 
@@ -369,8 +367,6 @@ https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mp2ar4ca425xo.m3u8
 
 #EXTINF:-28 tvg-logo="" group-title="India • Hindi*",The Movie Club SD
 https://pb-dkdpz5so0aqqr.akamaized.net:443/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-dkdpz5so0aqqr/../../../manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-dkdpz5so0aqqr/6ddcb954-4369-4fa6-909d-f35b5e84ad60/1.m3u8
-
-#
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bYxYbp56/Pitaara.png" group-title="India • Hindi*", Pitaara TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pitaara-tv/playlist.m3u8
