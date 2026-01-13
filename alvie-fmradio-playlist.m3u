@@ -204,7 +204,6 @@ https://dbcanada.sonarbanglatv.com/jhankartv/jtv/index.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/discoverpakistan.stream/tracks-v1a1/mono.m3u8
 
 
-INDIA • Bangla*
 #EXTINF:-53 tvg-logo="https://i.postimg.cc/t4Wth1hX/z24g.png" group-title="India • Bangla*",Zee 24 Ghanta
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-zee24ghantaa-xiaomi/playlist.m3u8
 
@@ -273,7 +272,6 @@ https://cdn-4.pishow.tv/live/1039/master.m3u8
 http://15.235.185.236/hls/bhi.m3u8
 
 
-INDIA • Hindi*
 #EXTINF:-83 tvg-logo="https://i.postimg.cc/MT050nV8/9xm.png" group-title="India • Hindi*",9XM SD
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/c8939874-787e-41ae-8d35-f5ea6e15720d/0.m3u8
 
@@ -374,7 +372,6 @@ https://pb-dkdpz5so0aqqr.akamaized.net:443/v1/master/3722c60a815c199d9c0ef36c5b7
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pitaara-tv/playlist.m3u8
 
 
-INTERNATIONAL*
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gJq9wk0H/alj.png" group-title="International*",Al Jazeera
 https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
 
@@ -485,8 +482,6 @@ https://ranapk-com-smsp.spidy.online/SLIV/rolex.php?id=2020594-b/SONYSIXSD/maste
 https://ranapk-com-smsp.spidy.online/SLIV/rolex.php?id=2011907-b/SonyBBCEarthHD/master.m3u8?hdnea=exp=1768285801~acl=/*~id=2ff3e0b557a2b142b6ac059fca06dbb8-1768242600203~hmac=6048d5d533d774ae93119f2c9fa3c13c1940a22b4dcc8bb7c3ff3f9ea2634c12|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com
 
 
-
-FM RADIO*
 #EXTINF:-1 group-title="FM Radio*" tvg-logo="https://cdn.onlineradiobox.com/img/l/9/29309.v8.png",Radio Foorti!
 https://stream.zeno.fm/cwa3vg8s8druv
 
