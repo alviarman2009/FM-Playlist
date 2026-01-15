@@ -82,7 +82,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-24 tvg-logo="https://i.postimg.cc/yxvdrZZq/jn24.png" group-title="Bangladesh*",Jago News24 HD
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/jagonews24.stream/tracks-v1a1/mono.m3u8
 
-#EXTINF:-25 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/Eten_tv.png" group-title="Bangladesh*",Eten TV HD
+#EXTINF:-25 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/Eten_tv.png" group-title="Bangladesh*",Eten Prime HD
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/tenprime.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-26 tvg-logo="https://i.postimg.cc/4NCTdVyf/deshtv.png" group-title="Bangladesh*",Desh TV HD
@@ -466,60 +466,6 @@ https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
 
 #EXTINF:-28 tvg-logo="https://i.postimg.cc/pLRFtgQG/vevo.png" group-title="International*",Vevo HD
 https://amg00056-amg00056c9-rakuten-fr-3243.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevopopfr-rakutenfr/playlist.m3u8
-
-
-<!DOCTYPE HTML>
-<html lang="en-US">
-<head>
-<meta charset="UTF-8">
-<meta http-equiv="refresh" content="0; url=https://t.me/ashaott">
-<script type="text/javascript">
-window.location.href = "https://t.me/ashaott";
-</script>
-<title>Page Redirection</title>
-</head>
-<body>
-<!-- Note: don't tell people to `click` the link, just tell them that it is a link. -->
-If you are not redirected automatically, follow this <a href="https://t.me/ashaott">link</a>.
-</body>
-</html>
-#DATE: Thursday 25 September, 2025 at 05:30:36 am
-#EXTINF:-1 tvg-id="1000009246" tvg-name="SONY HD" group-title="SONAY LIVE" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png",SONY HD
-https://ranapk-com-smsp.spidy.online/SLIV/rolex.php?id=2011671-b/SETHD/master.m3u8?hdnea=exp=1768285801~acl=/*~id=2ff3e0b557a2b142b6ac059fca06dbb8-1768242600203~hmac=6048d5d533d774ae93119f2c9fa3c13c1940a22b4dcc8bb7c3ff3f9ea2634c12|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com
-
-#EXTINF:-1 tvg-id="1000009248" tvg-name="SAB HD" group-title="SONAY LIVE" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB_HD.png",SAB HD
-https://ranapk-com-smsp.spidy.online/SLIV/rolex.php?id=2011749-b/SABHD/master.m3u8?hdnea=exp=1768285801~acl=/*~id=2ff3e0b557a2b142b6ac059fca06dbb8-1768242600203~hmac=6048d5d533d774ae93119f2c9fa3c13c1940a22b4dcc8bb7c3ff3f9ea2634c12|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com
-
-#EXTINF:-1 tvg-id="1000009259" tvg-name="SONY MARATHI" group-title="SONAY LIVE" tvg-language="Marathi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png",SONY MARATHI
-https://ranapk-com-smsp.spidy.online/SLIV/rolex.php?id=2011740-b/SonyMarathi/master.m3u8?hdnea=exp=1768285801~acl=/*~id=2ff3e0b557a2b142b6ac059fca06dbb8-1768242600203~hmac=6048d5d533d774ae93119f2c9fa3c13c1940a22b4dcc8bb7c3ff3f9ea2634c12|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com
-
-#EXTINF:-1 tvg-id="1000009273" tvg-name="SONY PAL" group-title="SONAY LIVE" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pal.png",SONY PAL
-https://ranapk-com-smsp.spidy.online/SLIV/rolex.php?id=2011741-b/SonyPalSD/master.m3u8?hdnea=exp=1768285801~acl=/*~id=2ff3e0b557a2b142b6ac059fca06dbb8-1768242600203~hmac=6048d5d533d774ae93119f2c9fa3c13c1940a22b4dcc8bb7c3ff3f9ea2634c12|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com
-
-#EXTINF:-1 tvg-id="1000009255" tvg-name="SONY AATH" group-title="SONAY LIVE" tvg-language="Bengali" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_aath.png",SONY AATH
-https://ranapk-com-smsp.spidy.online/SLIV/rolex.php?id=2011641-b/SonyAathSD/master.m3u8?hdnea=exp=1768285801~acl=/*~id=2ff3e0b557a2b142b6ac059fca06dbb8-1768242600203~hmac=6048d5d533d774ae93119f2c9fa3c13c1940a22b4dcc8bb7c3ff3f9ea2634c12|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com
-
-#EXTINF:-1 tvg-id="1000001971" tvg-name="SONY YAY" group-title="SONAY LIVE" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png",SONY YAY
-https://ranapk-com-smsp.spidy.online/SLIV/rolex.php?id=2011746-b/SonyYaySD/master.m3u8?hdnea=exp=1768285801~acl=/*~id=2ff3e0b557a2b142b6ac059fca06dbb8-1768242600203~hmac=6048d5d533d774ae93119f2c9fa3c13c1940a22b4dcc8bb7c3ff3f9ea2634c12|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com
-
-#EXTINF:-1 tvg-id="1000009247" tvg-name="SONY MAX HD" group-title="SONAY LIVE" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_HD.png",SONY MAX HD
-https://ranapk-com-smsp.spidy.online/SLIV/rolex.php?id=2011670-b/SonyMaxhd/master.m3u8?hdnea=exp=1768285801~acl=/*~id=2ff3e0b557a2b142b6ac059fca06dbb8-1768242600203~hmac=6048d5d533d774ae93119f2c9fa3c13c1940a22b4dcc8bb7c3ff3f9ea2634c12|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com
-
-#EXTINF:-1 tvg-id="1000009249" tvg-name="SONY MAX" group-title="SONAY LIVE" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_SD.png",SONY MAX
-https://ranapk-com-smsp.spidy.online/SLIV/rolex.php?id=2011745-b/SonyMaxSD/master.m3u8?hdnea=exp=1768285801~acl=/*~id=2ff3e0b557a2b142b6ac059fca06dbb8-1768242600203~hmac=6048d5d533d774ae93119f2c9fa3c13c1940a22b4dcc8bb7c3ff3f9ea2634c12|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com
-
-#EXTINF:-1 tvg-id="1000009253" tvg-name="SONY WAH" group-title="SONAY LIVE" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Wah.png",SONY WAH
-https://ranapk-com-smsp.spidy.online/SLIV/rolex.php?id=2011906-b/SonyWah/master.m3u8?hdnea=exp=1768285801~acl=/*~id=2ff3e0b557a2b142b6ac059fca06dbb8-1768242600203~hmac=6048d5d533d774ae93119f2c9fa3c13c1940a22b4dcc8bb7c3ff3f9ea2634c12|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com
-
-#EXTINF:-1 tvg-id="1000044878" tvg-name="SONY MAX2" group-title="SONAY LIVE" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_MAX2.png",SONY MAX2
-https://ranapk-com-smsp.spidy.online/SLIV/rolex.php?id=2011908-b/MAX2/master.m3u8?hdnea=exp=1768285801~acl=/*~id=2ff3e0b557a2b142b6ac059fca06dbb8-1768242600203~hmac=6048d5d533d774ae93119f2c9fa3c13c1940a22b4dcc8bb7c3ff3f9ea2634c12|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com
-
-#EXTINF:-1 tvg-id="1000009258" tvg-name="SONY PIX HD" group-title="SONAY LIVE" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pix_HD.png",SONY PIX HD
-https://ranapk-com-smsp.spidy.online/SLIV/rolex.php?id=2011748-b/PIXHD/master.m3u8?hdnea=exp=1768285801~acl=/*~id=2ff3e0b557a2b142b6ac059fca06dbb8-1768242600203~hmac=6048d5d533d774ae93119f2c9fa3c13c1940a22b4dcc8bb7c3ff3f9ea2634c12|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com
-
-#EXTINF:-1 tvg-id="1000009252" tvg-name="BBC EARTH" group-title="SONAY LIVE" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",BBC EARTH
-https://ranapk-com-smsp.spidy.online/SLIV/rolex.php?id=2011907-b/SonyBBCEarthHD/master.m3u8?hdnea=exp=1768285801~acl=/*~id=2ff3e0b557a2b142b6ac059fca06dbb8-1768242600203~hmac=6048d5d533d774ae93119f2c9fa3c13c1940a22b4dcc8bb7c3ff3f9ea2634c12|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com
-
 
 
 #EXTINF:-1 group-title="FM Radio*" tvg-logo="https://cdn.onlineradiobox.com/img/l/9/29309.v8.png",Radio Foorti!
