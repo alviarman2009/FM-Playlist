@@ -214,8 +214,21 @@ https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:-42 tvg-logo="https://www.jagobd.com/wp-content/uploads/2019/05/Jhankartv.jpg"group-title="Bangladesh*",Jhankar TV Canada
 https://dbcanada.sonarbanglatv.com/jhankartv/jtv/index.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/aurLife_tv.png" group-title="Bangladesh*",aurLife TV
+http://124.109.47.101/hls/stream1.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/Hum_tv.png" group-title="Bangladesh*",Hum TV
+https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/playlist_dvr.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wj03wqm7/geoent.png" group-title="Bangladesh*",Geo Entertainment
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
+
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/Geo_News.png" group-title="Bangladesh*",Geo News
+https://jk3lz82elw79-hls-live.5centscdn.com/newgeonews/07811dc6c422334ce36a09ff5cd6fe71.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/Aik_News.png" group-title="Bangladesh*",Aik News
+https://video.primexsports.com/pnn/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/N0mpQrB0/dptv.png" group-title="Bangladesh*",Discover Pakistan HD
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/discoverpakistan.stream/tracks-v1a1/mono.m3u8
@@ -439,7 +452,7 @@ http://65.108.239.207/bbc/index.m3u8
 #EXTINF:-10 tvg-logo="https://i.postimg.cc/sgZXsPDh/ap.png" group-title="International*", Animal Planet
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/37710214f7980ada7eba2bec8d1cca3fe806ce7d/Wild_Earth.svg" group-title="International",Wild Earth
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/37710214f7980ada7eba2bec8d1cca3fe806ce7d/Wild_Earth.svg" group-title="International*",Wild Earth
 https://wildearth-plex.amagi.tv/master.m3u8
 
 #EXTINF:-28 tvg-logo="https://i.postimg.cc/76RFhS0J/mtvlive.png" group-title="International*",MTV Live
