@@ -267,7 +267,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://vg-republictvlive.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-456368/06e5afc2-a022-4e51-9131-4e33a6207c5c/1.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/Rplus2.png" group-title="India • Bangla*",Rplus News
-https://thelegitpro.in/pntv/rplusnews24x7/tracks-v1a1/mono.m3u8
+#https://thelegitpro.in/pntv/rplusnews24x7/tracks-v1a1/mono.m3u8
+https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
 
 #EXTINF:-1 tvg-id="CalcuttaNews" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/Calcutta_News.png" group-title="India • Bangla*",Calcutta News HD
 https://akdnetwork.co.in/live/cnnew/index.m3u8
@@ -306,6 +307,12 @@ https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91e
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sx6F36nx/e10b.png" group-title="India • Bangla*",Enterr10 Bangla
 https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/Channel_Vision.png" group-title="India • Bangla*",Channel Vision SD
+https://channelvision.livebox.co.in/channelvisionhls/live.m3u8
+
+#EXTINF:-1 tvg-id="BanglaJagoTV" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/BanglaJagoTV.png" group-title="India • Bangla*",Bangla Jago TV
+http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4dMRZkDZ/BHI.png" group-title="India • Bangla*",Bhi Channel
 http://15.235.185.236/hls/bhi.m3u8
@@ -358,7 +365,7 @@ https://epiconvh.akamaized.net/live/showbox/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="India • Hindi*",Hindi Hits HD
 http://146.59.253.52:8080/hindihitshd/index.m3u8
 
-#EXTINF:-87 tvg-logo="https://i.postimg.cc/8Pv5ZLsw/batv.png" group-title="India • Hindi*",BritAsia TV HD
+#EXTINF:-87 tvg-logo="https://i.postimg.cc/8Pv5ZLsw/batv.png" group-title="India • Hindi*",BritAsia HD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/britasiatv/master.m3u8
 
 #EXTINF:-28 tvg-logo="https://i.postimg.cc/4yFsFH5n/shm.png" group-title="India • Hindi*",Saga Music Haryanvi
@@ -372,6 +379,9 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 #EXTINF:-28 tvg-logo="https://i.postimg.cc/BvSDCkng/blyflx.png" group-title="India • Hindi*",NH BollyFlix HD
 https://cc-r5hupcym5oehh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/SBUM/RunnTV/BollyFlix_IN/BollyFlix_IN.m3u8
+
+#EXTINF:-1 tvg-id="ZEEBOLLYWOOD" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/af040f9b205e6ef4e1c22eaa0f7d04654c9e8b3d/Zee_Bollywood_2025.svg" group-title="India • Hindi*",Zee Bollywood SD
+http://212.102.34.8:9080/ZeeBollywood/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8P4wrBCL/dangal.png" group-title="India • Hindi*",Dangal
 https://live-dangal.akamaized.net/liveabr/playlist.m3u8
@@ -399,6 +409,18 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0yB9xQ6s/b4um.png" group-title="India • Hindi*",B4U Movies SD
 https://cdnb4u.wiseplayout.com/B4U_Movies/SD216/SD216.m3u8
+
+#EXTINF:-1 tvg-id="b4u-bhojpuri" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/B4U_Bhojpuri.png" group-title="India • Hindi*",B4U Bhojpuri HD
+https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8
+
+#EXTINF:-1 tvg-id="BhojpuriCinema.in" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/Bhojpuri_Cinema.webp" group-title="India • Hindi*",Bhojpuri Cinema
+https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AbzyDhakad.in" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/Abzy_Dhakad.webp" group-title="India • Hindi*",Abzy Dhakad SD
+https://d2lk5u59tns74c.cloudfront.net/out/v1/4fe6ab07a13543d6bdb2ec63b3e2df44/index.m3u8
+
+#EXTINF:-1 tvg-id="Wild Flix" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/WildFlix.png" group-title="India • Hindi*",Wild Flix Hindi HD
+https://cc-qgrxgp51645lw.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qgrxgp51645lw/IQJW/WBD/WildFlix_IN/WildFlix_IN.m3u8
 
 #EXTINF:-28 tvg-logo="https://i.postimg.cc/GmYG5RX8/sum.webp" group-title="India • Hindi*",Star Utsav Movies
 http://103.78.149.54:8000/play/a00m/index.m3u8
@@ -516,6 +538,9 @@ https://d7x8z4yuq42qn.cloudfront.net/index_1.m3u8
 #EXTINF:-4 tvg-logo="https://i.postimg.cc/JzgNH4b3/CNN.png" group-title="International*",CNN HD
 https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
 
+#EXTINF:-1 tvg-id="cna.sg" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/af040f9b205e6ef4e1c22eaa0f7d04654c9e8b3d/CNA.svg" group-title="International*",Channel News Asia HD
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+
 #EXTINF:-5 tvg-logo="https://i.postimg.cc/kG694s94/de.png" group-title="International*",Discovery English
 http://fl1.moveonjoy.com/Discovery_Channel/index.m3u8
 
@@ -524,6 +549,9 @@ https://d1tm3cz23db55z.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 
 #EXTINF:-7 tvg-logo="https://i.postimg.cc/MGqWD10N/wn.png" group-title="International*", Wild Nature HD
 https://dg5rg8emlfy55.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-WildNature2/491.m3u8
+
+#EXTINF:-1 tvg-id="GBBB5000002PL" tvg-logo="https://raw.githubusercontent.com/alviarman2009/Logo/refs/heads/main/WildPlanet.png" group-title="International*",Wild Planet HD
+https://d1h8whhtg5u7om.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3u3ceovu5thv6/WildPlanet_GB.m3u8
 
 #EXTINF:-8 tvg-logo="https://i.postimg.cc/bJ0f0bXn/a8c32fd3-2ba7-437c-85ac-de2f1b2fa6ca.webp" group-title="International*",BBC Earth HD
 https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
